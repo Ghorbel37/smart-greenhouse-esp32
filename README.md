@@ -1,5 +1,7 @@
 # 🌱 Smart Greenhouse Monitoring System
 
+*Built for an IoT course (2024).*
+
 An IoT-based greenhouse monitoring and automation system using ESP32 that monitors temperature and humidity, automatically controls ventilation, and sends real-time data to ThingsBoard cloud platform.
 
 ## 📋 Project Overview
