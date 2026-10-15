@@ -4,6 +4,8 @@
 
 An IoT-based greenhouse monitoring and automation system using ESP32 that monitors temperature and humidity, automatically controls ventilation, and sends real-time data to ThingsBoard cloud platform.
 
+**Try it in the browser:** the [Wokwi simulation](https://wokwi.com/projects/416379281766396929) runs the full circuit (ESP32, DHT22 and servo) without any hardware.
+
 ## 📋 Project Overview
 
 This project simulates a smart greenhouse system that:
